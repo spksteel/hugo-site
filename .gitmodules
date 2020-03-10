@@ -1,3 +1,6 @@
 [submodule "hyde"]
 	path = hyde
 	url = https://github.com/spf13/hyde.git
+[submodule "spksteel.github.io"]
+	path = spksteel.github.io
+	url = https://github.com/spksteel/spksteel.github.io

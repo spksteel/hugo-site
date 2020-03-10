@@ -2,5 +2,11 @@ baseURL = "https://spksteel.github.io"
 languageCode = "en-us"
 title = "SPK"
 theme = "hyde"
+publishdir = "https://github.com/spksteel/spksteel.github.io"
+[Menus]
+	main = [
+		{Name = "Contact Us", URL = "about/contact-us.md"}
+	]
+
 [params]
 	description = "Steel fabrication business, family owned and operated for over 10 years."
